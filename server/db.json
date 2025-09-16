@@ -1,0 +1,27 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "tasks": [
+  { "id": 1, "name": "Quét nhà", "completed": false },
+  { "id": 2, "name": "Giặt quần áo", "completed": true },
+  { "id": 3, "name": "Nấu cơm", "completed": false },
+  { "id": 4, "name": "Học bài", "completed": false },
+  { "id": 5, "name": "Tưới cây", "completed": true },
+  { "id": 6, "name": "Đi chợ", "completed": false }
+  ]
+}
